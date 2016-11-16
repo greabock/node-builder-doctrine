@@ -2,6 +2,7 @@
     "license": "MIT",
     "name": "greabock/node-builder-doctrine",
     "require": {
+        "greabock/node-builder": "dev-master",
         "doctrine/orm": "2.*"
     },
     "authors": [
