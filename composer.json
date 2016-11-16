@@ -1,8 +1,9 @@
 {
+    "version": "0.1",
     "license": "MIT",
     "name": "greabock/node-builder-doctrine",
     "require": {
-        "greabock/node-builder": "dev-master",
+        "greabock/node-builder": "0.1",
         "doctrine/orm": "2.*"
     },
     "authors": [
