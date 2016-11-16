@@ -1,0 +1,18 @@
+{
+    "license": "MIT",
+    "name": "greabock/node-builder-doctrine",
+    "require": {
+        "doctrine/orm": "2.*"
+    },
+    "authors": [
+        {
+            "name": "Greabock",
+            "email": "greabock@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Greabock\\NodeBuilder\\Doctrine\\": "src/"
+        }
+    }
+}
